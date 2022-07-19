@@ -1,0 +1,639 @@
+<option>acoustical engineering</option>
+<option>acoustics</option>
+<option>actuarial science</option>
+<option>aerobics</option>
+<option>aerobiology</option>
+<option>aerodynamics</option>
+<option>aeronautics</option>
+<option>aerospace engineering</option>
+<option>affect control theory</option>
+<option>affine geometry</option>
+<option>agrochemistry</option>
+<option>agroecology</option>
+<option>algebra</option>
+<option>algebraic computation</option>
+<option>algebraic geometry</option>
+<option>algebraic number theory</option>
+<option>algebraic topology</option>
+<option>algorithms</option>
+<option>alternative medicine</option>
+<option>analysis</option>
+<option>analytic number theory</option>
+<option>analytical chemistry</option>
+<option>anatomical pathology</option>
+<option>anatomy</option>
+<option>andrology</option>
+<option>animal communications</option>
+<option>anthrozoology</option>
+<option>apiology</option>
+<option>applied mathematics</option>
+<option>applied physics</option>
+<option>approximation theory</option>
+<option>arachnology</option>
+<option>architectural engineering</option>
+<option>arithmetic combinatorics</option>
+<option>arthropodology</option>
+<option>artificial intelligence</option>
+<option>artificial neural networks</option>
+<option>assignment problem</option>
+<option>associative algebra</option>
+<option>astrobiology</option>
+<option>astrochemistry</option>
+<option>astronautics</option>
+<option>astronomy</option>
+<option>astrophysical plasma</option>
+<option>astrophysics</option>
+<option>atmospheric chemistry</option>
+<option>atmospheric science</option>
+<option>atomic physics</option>
+<option>audiology</option>
+<option>automata theory</option>
+<option>automated reasoning</option>
+<option>automotive engineering</option>
+<option>bacteriology</option>
+<option>bariatric surgery</option>
+<option>batrachology</option>
+<option>behavioral neuroscience</option>
+<option>behavioural genetics</option>
+<option>biochemical engineering</option>
+<option>biochemical systems theory</option>
+<option>biochemistry</option>
+<option>biocybernetics</option>
+<option>bioengineering</option>
+<option>biogeography</option>
+<option>bioinformatics</option>
+<option>biological systems engineering</option>
+<option>biology</option>
+<option>biomaterials</option>
+<option>biomechanical engineering</option>
+<option>biomedical engineering</option>
+<option>biomolecular engineering</option>
+<option>biophysics</option>
+<option>biotechnology</option>
+<option>black holes</option>
+<option>botany</option>
+<option>bryozoology</option>
+<option>calculus</option>
+<option>carcinology</option>
+<option>cardiac electrophysiology</option>
+<option>cardiology</option>
+<option>cardiothoracic surgery</option>
+<option>catalysis</option>
+<option>category theory</option>
+<option>cell biology</option>
+<option>ceramic engineering</option>
+<option>cetology</option>
+<option>chaos theory</option>
+<option>chemical biology</option>
+<option>chemical engineering</option>
+<option>cheminformatics</option>
+<option>chemistry</option>
+<option>chronobiology</option>
+<option>civil engineering</option>
+<option>climatology</option>
+<option>clinical biochemistry</option>
+<option>clinical immunology</option>
+<option>clinical informatics</option>
+<option>clinical laboratory sciences</option>
+<option>clinical microbiology</option>
+<option>clinical pathology</option>
+<option>clinical pathology</option>
+<option>clinical physiology</option>
+<option>cloud computing</option>
+<option>cnidariology</option>
+<option>coastal engineering</option>
+<option>coastal geography</option>
+<option>coding theory</option>
+<option>cognitive science</option>
+<option>combinatorics</option>
+<option>community informatics</option>
+<option>commutative algebra</option>
+<option>comparative anatomy</option>
+<option>compilers</option>
+<option>complex analysis</option>
+<option>complex systems</option>
+<option>computability theory</option>
+<option>computational biology</option>
+<option>computational chemistry</option>
+<option>computational complexity theory</option>
+<option>computational economics</option>
+<option>computational finance</option>
+<option>computational fluid dynamics</option>
+<option>computational geometry</option>
+<option>computational mathematics</option>
+<option>computational neuroscience</option>
+<option>computational number theory</option>
+<option>computational physics</option>
+<option>computational science</option>
+<option>computational sociology</option>
+<option>computational systems biology</option>
+<option>computer architecture</option>
+<option>computer communications</option>
+<option>computer engineering</option>
+<option>computer graphics</option>
+<option>computer science</option>
+<option>computer security and reliability</option>
+<option>computer vision</option>
+<option>computer-aided engineering</option>
+<option>computing in mathematics, natural sciences, engineering, and medicine</option>
+<option>computing in social sciences, arts, humanities, and professions</option>
+<option>conceptual systems</option>
+<option>conchology</option>
+<option>concurrency theory</option>
+<option>concurrent programming</option>
+<option>condensed matter physics</option>
+<option>continuum mechanics</option>
+<option>control engineering</option>
+<option>control systems</option>
+<option>control theory</option>
+<option>convex geometry</option>
+<option>cosmochemistry</option>
+<option>cosmology</option>
+<option>cryobiology</option>
+<option>cryogenics</option>
+<option>cryptography</option>
+<option>crystallography</option>
+<option>cybernetics</option>
+<option>cynology</option>
+<option>cytogenetics</option>
+<option>cytohematology</option>
+<option>cytology</option>
+<option>data management</option>
+<option>data mining</option>
+<option>data structures</option>
+<option>data visualization</option>
+<option>databases</option>
+<option>decision analysis</option>
+<option>demography</option>
+<option>dental hygiene</option>
+<option>dental surgery</option>
+<option>dentistry</option>
+<option>dermatology</option>
+<option>dermatopathology</option>
+<option>developmental biology</option>
+<option>developmental systems theory</option>
+<option>differential algebra</option>
+<option>differential topology</option>
+<option>digital humanities</option>
+<option>discrete geometry</option>
+<option>distance education</option>
+<option>distributed algorithms</option>
+<option>distributed computing</option>
+<option>distributed databases</option>
+<option>dynamic programming</option>
+<option>dynamical systems</option>
+<option>earthquake engineering</option>
+<option>ecological engineering</option>
+<option>ecological systems theory</option>
+<option>ecology</option>
+<option>econometrics</option>
+<option>ecosystem ecology</option>
+<option>edaphology</option>
+<option>educational technology</option>
+<option>electrical engineering</option>
+<option>electricity</option>
+<option>electrochemistry</option>
+<option>electromagnetism</option>
+<option>electronic engineering</option>
+<option>elementary particle physics</option>
+<option>embryology</option>
+<option>emergency medicine</option>
+<option>endocrinology</option>
+<option>endodontics</option>
+<option>engineering cybernetics</option>
+<option>engineering geology</option>
+<option>engineering physics</option>
+<option>enterprise systems engineering</option>
+<option>entomology</option>
+<option>environmental chemistry</option>
+<option>environmental engineering</option>
+<option>environmental science</option>
+<option>epidemiology</option>
+<option>epidemiology</option>
+<option>epigenetics</option>
+<option>ergodic theory</option>
+<option>ergonomics</option>
+<option>ethnobiology</option>
+<option>ethnobotany</option>
+<option>ethnoecology</option>
+<option>ethnozoology</option>
+<option>ethology</option>
+<option>evolutionary biology</option>
+<option>exercise physiology</option>
+<option>experimental physics</option>
+<option>expert systems</option>
+<option>family systems theory</option>
+<option>fault-tolerant computing</option>
+<option>felinology</option>
+<option>femtochemistry</option>
+<option>field theory</option>
+<option>finite element analysis</option>
+<option>finite geometry</option>
+<option>flavor</option>
+<option>flow chemistry</option>
+<option>fluid dynamics</option>
+<option>fluid mechanics</option>
+<option>food engineering</option>
+<option>forensic entomology</option>
+<option>forensic pathology</option>
+<option>forensic psychiatry</option>
+<option>formal methods</option>
+<option>fourier analysis</option>
+<option>fractal geometry</option>
+<option>functional analysis</option>
+<option>functional programming</option>
+<option>fuzzy logic</option>
+<option>galaxy formation and evolution</option>
+<option>galois geometry</option>
+<option>game theory</option>
+<option>gamma ray astronomy</option>
+<option>gastroenterology</option>
+<option>gemology</option>
+<option>general practice</option>
+<option>general systems theory</option>
+<option>general topology</option>
+<option>genetics</option>
+<option>geobiology</option>
+<option>geochemistry</option>
+<option>geodesy</option>
+<option>geology</option>
+<option>geometric number theory</option>
+<option>geometric topology</option>
+<option>geomorphology</option>
+<option>geophysics</option>
+<option>geostatistics</option>
+<option>geotechnical engineering</option>
+<option>geriatrics</option>
+<option>glaciology</option>
+<option>graph theory</option>
+<option>gravitational astronomy</option>
+<option>green chemistry</option>
+<option>grid computing</option>
+<option>group fitness</option>
+<option>group representation</option>
+<option>group theory</option>
+<option>gynaecology</option>
+<option>haemostasiology</option>
+<option>harmonic analysis</option>
+<option>health informatics</option>
+<option>heat transfer</option>
+<option>helioseismology</option>
+<option>helminthology</option>
+<option>hematology</option>
+<option>hematopathology</option>
+<option>hepatology</option>
+<option>herpetology</option>
+<option>high-energy astrophysics</option>
+<option>high-performance computing</option>
+<option>highway engineering</option>
+<option>histochemistry</option>
+<option>histology</option>
+<option>histopathology</option>
+<option>history of computer hardware</option>
+<option>history of computer science</option>
+<option>holistic medicine</option>
+<option>homological algebra</option>
+<option>human anatomy</option>
+<option>human biology</option>
+<option>human ecology</option>
+<option>human performance technology</option>
+<option>human physiology</option>
+<option>human-computer interaction</option>
+<option>humanistic informatics</option>
+<option>hydraulic engineering</option>
+<option>hydrodynamics</option>
+<option>hydrogenation</option>
+<option>hydrology</option>
+<option>ichthyology</option>
+<option>image processing</option>
+<option>immunochemistry</option>
+<option>immunology</option>
+<option>imperative programming</option>
+<option>implantology</option>
+<option>industrial engineering</option>
+<option>infectious disease</option>
+<option>information architecture</option>
+<option>information management</option>
+<option>information retrieval</option>
+<option>information theory</option>
+<option>infrared astronomy</option>
+<option>inorganic chemistry</option>
+<option>instructional design</option>
+<option>instructional simulation</option>
+<option>instrumentation engineering</option>
+<option>integral geometry</option>
+<option>intensive care medicine</option>
+<option>internal medicine</option>
+<option>internet</option>
+<option>interstellar medium</option>
+<option>intuitionistic logic</option>
+<option>inventory theory</option>
+<option>invertebrate zoology</option>
+<option>k-theory</option>
+<option>kinesiology</option>
+<option>knowledge management</option>
+<option>laboratory medicine</option>
+<option>landscape ecology</option>
+<option>lattice theory</option>
+<option>lie algebra</option>
+<option>limacology</option>
+<option>limnology</option>
+<option>linear algebra</option>
+<option>linear programming</option>
+<option>linnaean taxonomy</option>
+<option>living systems theory</option>
+<option>logic in computer science</option>
+<option>logic programming</option>
+<option>lti system theory</option>
+<option>machine learning</option>
+<option>magnetohydrodynamics</option>
+<option>malacology</option>
+<option>mammalogy</option>
+<option>management cybernetics</option>
+<option>manufacturing engineering</option>
+<option>marine biology</option>
+<option>marine chemistry</option>
+<option>marine engineering</option>
+<option>mass transfer</option>
+<option>materials engineering</option>
+<option>materials science and engineering</option>
+<option>mathematical biology</option>
+<option>mathematical chemistry</option>
+<option>mathematical logic and foundations of mathematics</option>
+<option>mathematical optimization</option>
+<option>mathematical physics</option>
+<option>mathematical statistics</option>
+<option>mathematical system theory</option>
+<option>mathematics</option>
+<option>measure theory</option>
+<option>mechanical engineering</option>
+<option>mechanics</option>
+<option>mechanochemistry</option>
+<option>mechatronics</option>
+<option>medical cybernetics</option>
+<option>medical physics</option>
+<option>medical toxicology</option>
+<option>medicinal chemistry</option>
+<option>medicine and health</option>
+<option>meteorology</option>
+<option>microbiology</option>
+<option>microwave astronomy</option>
+<option>mineralogy</option>
+<option>mining engineering</option>
+<option>modal logic</option>
+<option>model theory</option>
+<option>molecular biology</option>
+<option>molecular engineering</option>
+<option>molecular genetics</option>
+<option>molecular mechanics</option>
+<option>molecular pathology</option>
+<option>molecular physics</option>
+<option>molecular physics</option>
+<option>molecular virology</option>
+<option>multi-valued logic</option>
+<option>multilinear algebra</option>
+<option>multimedia</option>
+<option>music therapy</option>
+<option>mycology</option>
+<option>myriapodology</option>
+<option>myrmecology</option>
+<option>nanoengineering</option>
+<option>nanomaterials</option>
+<option>nanotechnology</option>
+<option>natural language processing</option>
+<option>natural product chemistry</option>
+<option>natural science</option>
+<option>nematology</option>
+<option>nephrology</option>
+<option>network science</option>
+<option>neural engineering</option>
+<option>neuro-ophthalmology</option>
+<option>neurochemistry</option>
+<option>neuroethology</option>
+<option>neurology</option>
+<option>neuroscience</option>
+<option>neurosurgery</option>
+<option>new cybernetics</option>
+<option>newtonian dynamics</option>
+<option>non-associative algebra</option>
+<option>non-euclidean geometry</option>
+<option>non-standard analysis</option>
+<option>noncommutative algebra</option>
+<option>noncommutative geometry</option>
+<option>nuclear engineering</option>
+<option>nuclear physics</option>
+<option>number theory</option>
+<option>numerical analysis</option>
+<option>numerical simulations</option>
+<option>nursing</option>
+<option>nutrition</option>
+<option>object databases</option>
+<option>object-oriented programming</option>
+<option>observational astronomy</option>
+<option>obstetrics</option>
+<option>occupational hygiene</option>
+<option>occupational therapy</option>
+<option>occupational toxicology</option>
+<option>ocean engineering</option>
+<option>oceanography</option>
+<option>oenology</option>
+<option>oncology</option>
+<option>oology</option>
+<option>operating systems</option>
+<option>operations research</option>
+<option>operator theory</option>
+<option>ophthalmology</option>
+<option>optical astronomy</option>
+<option>optical engineering</option>
+<option>optical physics</option>
+<option>optics</option>
+<option>optimal maintenance</option>
+<option>optometry</option>
+<option>oral and maxillofacial surgery</option>
+<option>ordinary differential equations</option>
+<option>organic chemistry</option>
+<option>organometallic chemistry</option>
+<option>ornithology </option>
+<option>orthodontics</option>
+<option>orthopedic surgery</option>
+<option>orthoptics</option>
+<option>otolaryngology</option>
+<option>p-adic analysis</option>
+<option>palaeogeography</option>
+<option>paleobiology</option>
+<option>paleoclimatology</option>
+<option>paleoecology</option>
+<option>paleontology</option>
+<option>parallel algorithms</option>
+<option>parallel computing</option>
+<option>parasitology</option>
+<option>partial differential equations</option>
+<option>pathology</option>
+<option>pediatrics</option>
+<option>perceptual control theory</option>
+<option>periodontics</option>
+<option>personal fitness training</option>
+<option>petrochemistry</option>
+<option>petroleum engineering</option>
+<option>petrology</option>
+<option>pharmaceutical chemistry</option>
+<option>pharmaceutical sciences</option>
+<option>pharmaceutical toxicology</option>
+<option>pharmaceutics</option>
+<option>pharmacocybernetics</option>
+<option>pharmacogenomics</option>
+<option>pharmacognosy</option>
+<option>pharmacokinetics</option>
+<option>pharmacology</option>
+<option>pharmacy</option>
+<option>photochemistry</option>
+<option>photonics</option>
+<option>phycology</option>
+<option>physical chemistry</option>
+<option>physical cosmology</option>
+<option>physical fitness</option>
+<option>physical geography</option>
+<option>physical metallurgy</option>
+<option>physical organic chemistry</option>
+<option>physical therapy</option>
+<option>physics</option>
+<option>physiology</option>
+<option>physiotherapy</option>
+<option>phytochemistry</option>
+<option>planetary science</option>
+<option>planktology</option>
+<option>plasma physics</option>
+<option>plastic surgery</option>
+<option>podiatry</option>
+<option>polymer chemistry</option>
+<option>polymer engineering</option>
+<option>polymer science</option>
+<option>population genetics</option>
+<option>power engineering</option>
+<option>preventive medicine</option>
+<option>primary care</option>
+<option>primatology</option>
+<option>probability theory</option>
+<option>process design</option>
+<option>process engineering</option>
+<option>program semantics</option>
+<option>programming language semantics</option>
+<option>programming languages</option>
+<option>programming paradigms</option>
+<option>projective geometry</option>
+<option>proof theory</option>
+<option>prosthodontics</option>
+<option>protistology</option>
+<option>psychiatry</option>
+<option>psychology</option>
+<option>public health</option>
+<option>pulmonology</option>
+<option>pure mathematics</option>
+<option>quantum chemistry</option>
+<option>quantum computing</option>
+<option>quantum field theory</option>
+<option>quantum gravity</option>
+<option>quantum mechanics</option>
+<option>quantum physics</option>
+<option>quaternary science</option>
+<option>radio astronomy</option>
+<option>radiochemistry</option>
+<option>radiology</option>
+<option>randomized algorithms</option>
+<option>reaction engineering</option>
+<option>real analysis</option>
+<option>real options analysis</option>
+<option>recreational therapy</option>
+<option>recursion theory</option>
+<option>rehabilitation medicine</option>
+<option>relational databases</option>
+<option>representation theory</option>
+<option>respiratory therapy</option>
+<option>rheumatology</option>
+<option>ring theory</option>
+<option>robotics</option>
+<option>scheduling</option>
+<option>scientific visualization</option>
+<option>second-order cybernetics</option>
+<option>sedimentology</option>
+<option>semiconductors</option>
+<option>set theory</option>
+<option>sleep medicine</option>
+<option>social dynamics</option>
+<option>sociocybernetics</option>
+<option>sociotechnical systems theory</option>
+<option>software engineering</option>
+<option>solid mechanics</option>
+<option>solid state physics</option>
+<option>solid-state chemistry</option>
+<option>sonochemistry</option>
+<option>sound and music computing</option>
+<option>space science</option>
+<option>speech–language pathology</option>
+<option>speleology</option>
+<option>sports medicine</option>
+<option>star formation</option>
+<option>statistical mechanics</option>
+<option>statistics</option>
+<option>stellar astrophysics</option>
+<option>stellar evolution</option>
+<option>stellar nucleosynthesis</option>
+<option>stochastic process</option>
+<option>stochastic processes</option>
+<option>string theory</option>
+<option>structural biology</option>
+<option>structural engineering</option>
+<option>structural mechanics</option>
+<option>supramolecular chemistry</option>
+<option>surface chemistry</option>
+<option>surgery</option>
+<option>surgical pathology</option>
+<option>surveying</option>
+<option>synthetic biology</option>
+<option>synthetic chemistry</option>
+<option>system dynamics</option>
+<option>systemic therapy</option>
+<option>systems analysis</option>
+<option>systems biology</option>
+<option>systems ecology</option>
+<option>systems engineering</option>
+<option>systems immunology</option>
+<option>systems neuroscience</option>
+<option>systems psychology</option>
+<option>systems science</option>
+<option>systems theory</option>
+<option>systems theory in anthropology</option>
+<option>taxonomy</option>
+<option>tectonics</option>
+<option>telecommunications engineering</option>
+<option>teratology</option>
+<option>teuthology</option>
+<option>theoretical chemistry</option>
+<option>theoretical physics</option>
+<option>theory of computation</option>
+<option>thermal physics</option>
+<option>thermochemistry</option>
+<option>thermodynamics</option>
+<option>topology</option>
+<option>topos theory</option>
+<option>traditional medicine</option>
+<option>transport phenomena</option>
+<option>transportation engineering</option>
+<option>trauma surgery</option>
+<option>traumatology</option>
+<option>type theory</option>
+<option>ubiquitous computing</option>
+<option>universal algebra</option>
+<option>urology</option>
+<option>uv astronomy</option>
+<option>veterinary medicine</option>
+<option>virology</option>
+<option>vlsi design</option>
+<option>volcanology</option>
+<option>wireless computing</option>
+<option>world-systems theory</option>
+<option>x-ray astronomy</option>
+<option>xenobiology</option>
+<option>zoology</option>
+<option>zoosemiotics</option>
+<option>zootomy</option>

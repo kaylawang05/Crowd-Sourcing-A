@@ -1,0 +1,22 @@
+{
+	"name": "Crowd Sourcing A",
+	"version": "1",
+	"description": "crowdsourcing chrome extension for higher education",
+	"manifest_version": 3,
+
+	"action": {
+		"default_popup": "popup.html",
+		"default_icon":  "/assets/icon.png",
+		"default_title": "Welcome to your Crowdsourcing Assistant"
+	},
+
+	"background": {
+	  "service worker": "background.js"
+	},
+
+	"permissions": [
+		"tabs"
+	]
+    
+	
+}

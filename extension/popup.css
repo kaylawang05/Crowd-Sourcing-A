@@ -1,0 +1,192 @@
+
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+    min-width: 300px;
+    min-height: 400px;
+    max-width: 300px;
+    max-height: 400px;
+}
+
+.header{
+  color: #20B2AA;
+  font-size: 75px;
+  top: 0px;
+  left: 0px;
+}
+#options{
+  text-align: center;
+  font-family: Copperplate, Papyrus, fantasy;
+  font-size: 12px;
+  color: black;
+  padding-top: 15px;
+  padding-right: 80px;
+}
+
+.checkbox_text{
+  font-family: 'Dosis', sans-serif;
+}
+
+
+p {
+  margin: 0;
+  padding: 0;
+  font-family: 'Dosis', sans-serif;
+}
+
+h1 {
+  font-family: 'Boogaloo';
+  font-size: 22px;
+  padding-top: 50;
+  padding-bottom: 0;
+}
+
+#content {
+    position: relative;
+}
+#content img {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 50%;
+    margin-right: 10px;
+}
+#color{
+  background-color: #000000;
+}
+.float-parent-element { 
+    width: 40%; 
+} 
+.float-child-element { 
+    float: left; 
+    width: 40%; 
+} 
+.red { 
+    background-color: ; 
+    margin-left: 40%; 
+    margin-right: 30%;
+    width:50px;
+    height: 100px; 
+    padding-top: px;
+
+} 
+.yellow { 
+    width: 400%;
+    height: 100px; 
+    padding-top: 10px;
+    margin-left:  60px;
+}
+.float-container {
+    border: 3px solid #fff;
+    padding: 10px;
+}
+
+.float-child {
+    width 60%;
+    float: left;
+    padding: 20px;
+    border: 2px solid red;
+}  
+.float-parent-element1 { 
+    width: 50%; 
+} 
+.float-child-element1 { 
+    float: left; 
+    width: 50%; 
+} 
+.ron { 
+    background-color: ; 
+    margin-left: 50%; 
+    height: 100px; 
+    width: 130px;
+    font-size: 12px;
+   }
+.yon { 
+    margin-left: 180px; 
+    margin-right: 10%;
+    height: 100px; 
+    width: 100px;
+    padding-top: 85px;
+    font-size: 12px;
+    font-family: 'Dosis', sans-serif
+
+}
+.copy-icon{
+    content:url('https://i.postimg.cc/zfK0p4T3/chromextension1.png');
+    height: 75px;
+    width: auto;
+    margin-right: 0px;
+}
+.f{
+    margin-right:5px;
+
+}
+body {
+     background: white;
+}
+
+label.mnu{
+    display: inline-flex;
+    width: 300px;
+    text-align: center;
+    margin: 0px !important;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    padding-left: 80px;
+    padding-right: 50px;
+    font-family: 'Dosis', sans-serif
+}
+.next{
+    color: black;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    padding-right: 200px;
+    margin-right: 60px;
+    margin-left: 70px;
+    white-space: nowrap ;
+    width: 300%;
+   
+}
+.search{
+    padding-top: 5x;
+    padding-bottom: 5px;
+    padding-left: 0px;
+    padding-right: 0px;
+    margin-right: 60px;
+    margin-left: 60px;
+    border-radius: 5px;
+    border-color: #cc99ff;
+
+}
+
+.sub{
+    padding-top: 0px;
+    padding-bottom: 0px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-right: 100px;
+    margin-left: 110px;
+    text-align: center;
+    margin-top: 5px;
+}
+.add{
+    margin-left: 60px;
+}
+.bcolor{
+    background-color: #33ccff;
+}
+.button {
+  background-color: #33ccff; 
+  border: none;
+  color: white;
+  padding: 10px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 10px;
+  border-radius: 12px;
+}
